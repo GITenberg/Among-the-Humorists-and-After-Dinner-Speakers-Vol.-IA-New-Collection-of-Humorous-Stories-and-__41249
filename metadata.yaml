@@ -1,0 +1,29 @@
+_repo: Among-the-Humorists-and-After-Dinner-Speakers-Vol.-IA-New-Collection-of-Humorous-Stories-and-__41249
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41249-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Patten, William
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '1118'
+    url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_issued: '2012-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Anecdotes'
+- !lcsh 'American wit and humor'
+- !lcsh 'Wit and humor'
+title: "Among the Humorists and After Dinner Speakers, Vol. 1\r\nA New Collection\
+  \ of Humorous Stories and Anecdotes"
+url: http://www.gutenberg.org/ebooks/41249
