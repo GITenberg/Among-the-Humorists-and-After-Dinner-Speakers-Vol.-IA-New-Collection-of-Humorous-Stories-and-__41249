@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1118'
     url: http://www.gutenberg.org/2009/agents/1118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41249#Among-the-Humorists-and-After-Dinner-Speakers-Vol.-IA-New-Collection-of-Humorous-Stories-and-_
 gutenberg_issued: '2012-10-31'
 gutenberg_type: Text
 identifiers:
